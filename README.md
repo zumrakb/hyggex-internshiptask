@@ -2,8 +2,8 @@
 
 ## Technologies & Libraries:
 
--React.JS
--React Router Dom
+React.JS
+React Router Dom
 -React Icons
 -Tailwindcss
 -Tailwind 3d Transform
