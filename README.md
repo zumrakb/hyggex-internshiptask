@@ -4,8 +4,8 @@
 
 React.JS
 React Router Dom
--React Icons
--Tailwindcss
--Tailwind 3d Transform
+React Icons
+Tailwindcss
+Tailwind 3d Transform
 
 
