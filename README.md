@@ -1,14 +1,14 @@
 # Hyggex Digital Services Private Limited Internship Evaluation Task
 
 Deployment link: https://hyggex-internshiptask.vercel.app/flashcard/mathematics/relations-and-function  \
-Demonstration with a video: https://drive.google.com/file/d/1gnGMiax6MgsuoIryPe9Y_CDbHSWSNSbS/view?usp=sharing
+Demonstration with a video: 
 
 ## Technologies & Libraries
 
 React.JS\
 React Router Dom\
 React Icons\
-Tailwindcss\
+Tailwindcss
 
 ## Getting Started
 
