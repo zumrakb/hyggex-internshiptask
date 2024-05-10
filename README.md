@@ -8,7 +8,7 @@ React.JS\
 React Router Dom\
 React Icons\
 Tailwindcss\
-Tailwind 3d Transform
+
 
 ## UI
 ![gif](https://github.com/zumrakb/hyggex-internshiptask/assets/139718764/3c3c17ce-c693-4539-8203-6c24efc04cc4)
