@@ -3,7 +3,7 @@ import Question from "./Question";
 
 const FAQ = () => {
   return (
-    <div className="px-[104px] ">
+    <div className="xl:-x-[104px] md:px-[104px] sm:px-[50px] xs:px-[30px] ">
       <h4 className="bg-gradient-to-r from-blue-900 to-blue-500  text-transparent bg-clip-text text-[45px] font-bold flex  mb-8">
         FAQ
       </h4>

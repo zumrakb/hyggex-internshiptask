@@ -3,8 +3,12 @@ import React from "react";
 const Menu = () => {
   return (
     <div
-      className="text-[#3A3740] font-[20px] flex flex-row  gap-[40px] leading-[22px] 
-   
+      className="text-[#3A3740] font-[20px] flex flex-row   leading-[22px] 
+   xl:gap-[40px]
+   lg:gap-[40px]
+   md:gap-[40px]
+   sm:gap-[40px]
+   xs:gap-[30px]
     "
     >
       <button>Home</button>

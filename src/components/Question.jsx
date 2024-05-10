@@ -8,7 +8,7 @@ const Question = ({ question, answer }) => {
     setDown(!down);
   }
   return (
-    <div className=" w-[900px]  border p-5 rounded-3xl border-blue-900 mb-11">
+    <div className=" xl:w-[900px]  lg:w-[800px] md:w-[700px] sm:w-[500px]  border p-5 rounded-3xl border-blue-900 mb-11">
       <div className={`flex justify-between `}>
         <p className="font-bold text-blue-950">{question}</p>
 

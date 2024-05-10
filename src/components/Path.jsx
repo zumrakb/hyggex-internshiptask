@@ -24,7 +24,14 @@ const Path = () => {
     ?.join(" ");
 
   return (
-    <div className="text-[#696671] flex items-center mx-[104px] gap-3 mt-20 mb-20">
+    <div
+      className="text-[#696671] xl:flex xl:items-center md:flex md:flex-row sm:flex sm:flex-row xs:flex xs:items-center   xl:mx-[104px] xl:mt-20 xl:mb-20 
+    md:mx-[104px] md:mt-20 md:mb-20
+    sm:mx-[104px] sm:mt-20 sm:mb-20
+    xs:mx-10 xs:mt-10 xs:mb-10
+    
+    gap-3"
+    >
       <Link to={"/"}>
         <img className="w-6" src={home} alt="" />
       </Link>

@@ -9,7 +9,10 @@ const Logo = () => {
     navigate("/");
   }
   return (
-    <div className="cursor-pointer" onClick={() => handleLogoClick()}>
+    <div
+      className="cursor-pointer xl:mt-0 md:mt-0 sm:mt-10"
+      onClick={() => handleLogoClick()}
+    >
       <img src={logo} alt="letter" />
     </div>
   );
