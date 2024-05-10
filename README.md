@@ -1,7 +1,7 @@
 # Hyggex Digital Services Private Limited Internship Evaluation Task
 
-Deployment link: 
-
+Deployment link: \
+Demonstration with a video: https://drive.google.com/file/d/1gnGMiax6MgsuoIryPe9Y_CDbHSWSNSbS/view?usp=sharing 
 ## Technologies & Libraries
 
 React.JS\
@@ -11,7 +11,7 @@ Tailwindcss\
 Tailwind 3d Transform\
 
 ## UI
+![gif](https://github.com/zumrakb/hyggex-internshiptask/assets/139718764/3c3c17ce-c693-4539-8203-6c24efc04cc4)
 
-![Ekran görüntüsü 2024-05-10 020952](https://github.com/zumrakb/hyggex-internshiptask/assets/139718764/e87bab25-5b06-4c6f-94ae-05e80b6aa605)
 
 
